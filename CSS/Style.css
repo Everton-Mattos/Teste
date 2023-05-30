@@ -40,3 +40,25 @@ body{
     font-size: 16px;
     transition-duration: 0.6s;
 }
+.Botão3{
+    background-color: #ff8080;
+    border-radius: 10px;
+    color: #080808;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.6s;
+}
+.Botão4{
+    background-color: #bb7fff;
+    border-radius: 10px;
+    color: #080808;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.6s;
+}
