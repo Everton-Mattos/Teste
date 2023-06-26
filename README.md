@@ -1,2 +1,2 @@
 # Primeiro Projeto.!!
-Esse é meu primeiro projeto, iniciando em 2023, espero concluir esse projeto o quanto antes.!
+Esse é meu primeiro projeto, iniciando em 2023, será meu primeiro site desenvolvido por mim, está sendo um desafio, porém estou muito confiante nos meus estudos e estou colocando tudo em pratica.!
