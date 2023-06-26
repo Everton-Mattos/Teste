@@ -1,21 +1,38 @@
-.Foto-Projeto{    
+.Foto-Projeto {
     border-color: brown;
-    max-width: 200px;
-    border: 4px;    scrollbar-3dlight-color: rgb(165, 161, 42);
+    max-width: 250px;
+    border: 10px;
+    scrollbar-3dlight-color: #ff0000;
 }
-h1{
+
+h1 {
     text-align: center;
-    border-color: brown;    
+    border-color: brown;
     background-color: #a52a2a;
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #f0f8ff;    
+    color: #f0f8ff;
 }
-body{
-    background-color: #fffaf0;}
 
-.Botão1{
-    background-color: #4CAF50; /* Green */
+body {
+    background-color: #ffffff;
+}
+
+div#Botoes {
+    display: block;
+}
+
+div#Botoes {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+}
+
+
+.Botão1 {
+    background-color: #ff0000;
+    /* Green */
     border-radius: 8px;
     color: #ffffff;
     padding: 10px 24px;
@@ -23,42 +40,66 @@ body{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    transition-duration: 0.4ms;                                       
+    transition-duration: 0.4ms;
+
+
 }
-.Botão1:hover{
-    background-color: #4CAF50; /* Green */
+
+.Botão1:hover {
+
+    transform: scale(1.1);
+}
+
+.Botão2:hover {
+
+    transform: scale(1.1);
+}
+
+.Botão3:hover {
+    transform: scale(1.1);
+}
+
+.Botão4:hover {
+
+    transform: scale(1.1);
+}
+
+.Botão2 {
+    background-color: #ff0000;
+    /* Green */
+    border-radius: 8px;
     color: #ffffff;
-}
-.Botão2{
-    background-color: #7fffd4;
-    border-radius: 10px;
-    color: rgb(8, 8, 8);
     padding: 10px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    transition-duration: 0.6s;
+    transition-duration: 0.4ms;
+
 }
-.Botão3{
-    background-color: #ff8080;
-    border-radius: 10px;
-    color: #080808;
+
+.Botão3 {
+    background-color: #ff0000;
+    /* Green */
+    border-radius: 8px;
+    color: #ffffff;
     padding: 10px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    transition-duration: 0.6s;
+    transition-duration: 0.4ms;
 }
-.Botão4{
-    background-color: #bb7fff;
-    border-radius: 10px;
-    color: #080808;
+
+.Botão4 {
+    background-color: #ff0000;
+    /* Green */
+    border-radius: 8px;
+    color: #ffffff;
     padding: 10px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    transition-duration: 0.6s;
+    transition-duration: 0.4ms;
 }
